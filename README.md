@@ -1,6 +1,6 @@
 <img align="center" alt="cover" width="1000" height="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 <h1 align="center">Hey there! 👋, I'm Azwad</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A passionate earthling who likes to make things</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shredder280998&label=Profile%20views&color=0e75b6&style=flat" alt="shredder280998" /> </p>
