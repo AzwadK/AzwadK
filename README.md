@@ -1,9 +1,9 @@
 <img align="center" alt="cover" width="1000" height="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 <h1 align="center">Hey there! 👋, I'm Azwad</h1>
 <h3 align="center">A passionate earthling who likes to make things</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp">
+<img align="right" alt="Coding" height="280" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AzwadK&label=Profile%20views&color=0e75b6&style=flat" alt="AzwadK" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=AzwadK&label=Profile%20views&color=0e75b6&style=flat" alt="AzwadK" /> </p>
 
 - 🔭 I’m currently working on **SkillFolio**
 
