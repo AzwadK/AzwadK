@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **azwadkhan613@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1AtVzL6FetAxkCKPyYTOAx5hgEijBD6Z8/view?usp=sharing](https://drive.google.com/file/d/159NdEB5RsirkE_qQKIlmZX2vwRtPQ3i5/view?usp=drive_link)">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/159NdEB5RsirkE_qQKIlmZX2vwRtPQ3i5/view?usp=drive_link">here</a>
 
 - ⚡ Fun fact **I tend to grasp concepts when the world is burning around me**
 
