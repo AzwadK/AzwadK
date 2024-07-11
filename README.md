@@ -5,17 +5,17 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=AzwadK&label=Profile%20views&color=0e75b6&style=flat" alt="AzwadK" /> </p>
 
-- 🔭 I’m currently working on **SkillFolio**
+- 🔭 I’m currently working on **Borgo Automation Project**
 
-- 🌱 I’m currently learning **Solidity,Python**
+- 🌱 I’m currently learning **Python, Django, Selenium**
 
-- 💬 Ask me about **C, Java**
+- 💬 Ask me about **Python, Selenium**
 
 - 📫 How to reach me **azwadkhan613@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AtVzL6FetAxkCKPyYTOAx5hgEijBD6Z8/view?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1AtVzL6FetAxkCKPyYTOAx5hgEijBD6Z8/view?usp=sharing](https://drive.google.com/file/d/159NdEB5RsirkE_qQKIlmZX2vwRtPQ3i5/view?usp=drive_link)">here</a>
 
-- ⚡ Fun fact **I only grasp concepts when the world is burning around me**
+- ⚡ Fun fact **I tend to grasp concepts when the world is burning around me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
