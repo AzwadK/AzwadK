@@ -13,9 +13,9 @@
 
 - ⚔️ By day I do **LLM annotation & evaluation** — judging whether AI agents actually did the task or just *confidently claimed* they did (spoiler: it's often the second one)
 
-- 💬 Ask me about **Playwright, Cypress, Selenium, API testing, or why your test suite is flaky** (it's the `await`, it's always the `await`)
+- 💬 Ask me about **end-to-end & API test automation** — I build Playwright/Cypress/Selenium suites in TypeScript, hammer APIs with Postman, and track the carnage in Jira. I've run point as the *sole QA on three projects shipping weekly*, owned the test strategy, and written handoff docs detailed enough that the next person actually thanks me. If your suite is flaky, I already know it's the `await` (it's always the `await`)
 
-- 🎮 In my spare time I build **OpenGL games** that mostly involve dodging bullets — see *Boss Rush* and *Bullet Frenzy*
+- 🤖 Vibing 24/7 building personal projects with my friend **Claude** — pair programming with an AI that never needs sleep, snacks, or a standup
 
 - 🏎️ Will pause any conversation to talk about **JDM cars** and **anime**
 
@@ -42,7 +42,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
